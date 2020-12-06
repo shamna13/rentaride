@@ -1,0 +1,23 @@
+.background{
+    background: url("../images/download (1).jpg");
+}
+.textstyle{
+    font-size: 50px;
+    font-weight: 50;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: blanchedalmond;
+
+}
+.textnew{
+    font-size:40px;
+    color: blanchedalmond;
+}
+.textnext{
+    color: blanchedalmond;
+    font-size: 30px;
+    font-style: italic;
+}
+.texttable{
+    color: blanchedalmond;
+}
