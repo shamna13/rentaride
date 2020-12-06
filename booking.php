@@ -34,35 +34,39 @@
                     <tr class="texttable">
                         <td>Name</td>
                         <td><input type="text" class="form-control"></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    
                     </tr>
                     <tr class="texttable">
                         <td>Contact Number</td>
                         <td><input type="text" class="form-control"></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        
                     </tr>
-                    <tr class="texttable">
+                        <tr class="texttable">
                         <td>Email id</td>
                         <td><input type="text" class="form-control"></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        
+                    </tr>
+                    <tr class="textchange">
+                        <td>Travel Date:</td>
                     </tr>
                     <tr class="texttable">
-                        <td>Travel Date</td>
                         <td>From:</td>
-                        <td><input type="text" class="form-control"></td>
-                        <td>To:</td>
-                        <td><input type="text" class="form-control"></td>
+                        <td><input type="text" class="form-control"> </td>
+                        
                     </tr>
                     <tr class="texttable">
-                        <td>Location</td>
+                
+                    <td>To:</td>
+                        <td><input type="text" class="form-control"></td>
+                    </tr>
+                    <tr class="textchange">
+                        <td>Location:</td>
+                    </tr>
+                    <tr class="texttable">
                         <td>Pickup</td>
                         <td><input type="text" class="form-control"></td>
+                    </tr>
+                    <tr class="texttable">
                         <td>Dropdown</td>
                         <td><input type="text" class="form-control"></td>
                         
